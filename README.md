@@ -1,5 +1,7 @@
 1. Setup
 
+Download searcher.exe,  libssl-3-x64.dll and libcrypto-3-x64.dll. 
+
 Place searcher.exe in a folder with libssl-3-x64.dll and libcrypto-3-x64.dll. Run the EXE to begin.
 
 3. Security & Access
