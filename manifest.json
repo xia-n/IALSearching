@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "searcher_info": {
+        "version": "4.9.0",
+        "url": "https://raw.githubusercontent.com/xia-n/IALSearching/main/subject/Searcher.exe"
+    },
+    "updater_info": {
+        "version": "1.0.1",
+        "url": "https://raw.githubusercontent.com/xia-n/IALSearching/main/subject/updater.exe"
+    },
+    "atlases": [
+        {
+            "name": "Physics.atlas",
+            "url": "https://raw.githubusercontent.com/xia-n/IALSearching/main/subject/Physics.atlas",
+            "sha256": "d9988b034f11835c1a47042a06bda095ed1289f13447390c1e5c020eb40cc9ad",
+            "size": 1003070
+        },
+        {
+            "name": "Physics_0625_4_ms.atlas",
+            "url": "https://raw.githubusercontent.com/xia-n/IALSearching/main/subject/Physics_0625_4_ms.atlas",
+            "sha256": "1add6c0b71ad1968b7a641e20ab219e1dafbec45f459239cbd508c571937c669",
+            "size": 3971710
+        },
+        {
+            "name": "Physics_0625_4_ms_raw.json.atlas",
+            "url": "https://raw.githubusercontent.com/xia-n/IALSearching/main/subject/Physics_0625_4_ms_raw.json.atlas",
+            "sha256": "d9988b034f11835c1a47042a06bda095ed1289f13447390c1e5c020eb40cc9ad",
+            "size": 1003070
+        }
+    ]
+}
